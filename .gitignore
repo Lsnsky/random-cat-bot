@@ -1,0 +1,9 @@
+.env
+example_for_log.py
+name_demo.py
+name_demo2.py
+send_random_image.py
+*.log
+test_work_with_secrets.py
+venv/
+__pycache__/
